@@ -1,2 +1,3 @@
 User-agent: Googlebot
 Disallow: /Roadway%20Lens%20-%20Captioned%20Launch%20Film.mp4
+Disallow: /129E2F6B-421C-4115-8985-8DF56844ADB8_1_105_c.jpeg
